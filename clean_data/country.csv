@@ -1,7 +1,5 @@
 country_key,country,iso_code
 100,Afghanistan,AFG
-101,Africa,
-102,Africa (GCP),
 103,Aland Islands,ALA
 104,Albania,ALB
 105,Algeria,DZA
@@ -14,9 +12,6 @@ country_key,country,iso_code
 112,Argentina,ARG
 113,Armenia,ARM
 114,Aruba,ABW
-115,Asia,
-116,Asia (GCP),
-117,Asia (excl. China and India),
 118,Australia,AUS
 119,Austria,AUT
 120,Azerbaijan,AZE
@@ -45,7 +40,6 @@ country_key,country,iso_code
 143,Canada,CAN
 144,Cape Verde,CPV
 145,Central African Republic,CAF
-146,Central America (GCP),
 147,Chad,TCD
 148,Chile,CHL
 149,China,CHN
@@ -75,24 +69,13 @@ country_key,country,iso_code
 173,Estonia,EST
 174,Eswatini,SWZ
 175,Ethiopia,ETH
-176,Europe,
-177,Europe (GCP),
-178,Europe (excl. EU-27),
-179,Europe (excl. EU-28),
-180,European Union (27),
-181,European Union (27) (GCP),
-182,European Union (28),
 183,Falkland Islands,FLK
 184,Faroe Islands,FRO
 185,Fiji,FJI
 186,Finland,FIN
 187,France,FRA
-188,French Equatorial Africa (GCP),
-189,French Equatorial Africa (Jones et al. 2023),
 190,French Guiana,GUF
 191,French Polynesia,PYF
-192,French West Africa (GCP),
-193,French West Africa (Jones et al. 2023),
 194,Gabon,GAB
 195,Gambia,GMB
 196,Georgia,GEO
@@ -108,14 +91,12 @@ country_key,country,iso_code
 206,Guinea-Bissau,GNB
 207,Guyana,GUY
 208,Haiti,HTI
-209,High-income countries,
 210,Honduras,HND
 211,Hong Kong,HKG
 212,Hungary,HUN
 213,Iceland,ISL
 214,India,IND
 215,Indonesia,IDN
-216,International transport,
 217,Iran,IRN
 218,Iraq,IRQ
 219,Ireland,IRL
@@ -129,24 +110,16 @@ country_key,country,iso_code
 227,Kazakhstan,KAZ
 228,Kenya,KEN
 229,Kiribati,KIR
-230,Kosovo,
 231,Kuwait,KWT
-232,Kuwaiti Oil Fires (GCP),
-233,Kuwaiti Oil Fires (Jones et al. 2023),
 234,Kyrgyzstan,KGZ
 235,Laos,LAO
 236,Latvia,LVA
-237,Least developed countries (Jones et al. 2023),
 238,Lebanon,LBN
-239,Leeward Islands (GCP),
-240,Leeward Islands (Jones et al. 2023),
 241,Lesotho,LSO
 242,Liberia,LBR
 243,Libya,LBY
 244,Liechtenstein,LIE
 245,Lithuania,LTU
-246,Low-income countries,
-247,Lower-middle-income countries,
 248,Luxembourg,LUX
 249,Macao,MAC
 250,Madagascar,MDG
@@ -162,7 +135,6 @@ country_key,country,iso_code
 260,Mayotte,MYT
 261,Mexico,MEX
 262,Micronesia (country),FSM
-263,Middle East (GCP),
 264,Moldova,MDA
 265,Mongolia,MNG
 266,Montenegro,MNE
@@ -181,24 +153,14 @@ country_key,country,iso_code
 279,Niger,NER
 280,Nigeria,NGA
 281,Niue,NIU
-282,Non-OECD (GCP),
-283,North America,
-284,North America (GCP),
-285,North America (excl. USA),
 286,North Korea,PRK
 287,North Macedonia,MKD
 288,Norway,NOR
-289,OECD (GCP),
-290,OECD (Jones et al. 2023),
-291,Oceania,
-292,Oceania (GCP),
 293,Oman,OMN
 294,Pakistan,PAK
 295,Palau,PLW
 296,Palestine,PSE
 297,Panama,PAN
-298,Panama Canal Zone (GCP),
-299,Panama Canal Zone (Jones et al. 2023),
 300,Papua New Guinea,PNG
 301,Paraguay,PRY
 302,Peru,PER
@@ -211,8 +173,6 @@ country_key,country,iso_code
 309,Romania,ROU
 310,Russia,RUS
 311,Rwanda,RWA
-312,Ryukyu Islands (GCP),
-313,Ryukyu Islands (Jones et al. 2023),
 314,Saint Helena,SHN
 315,Saint Kitts and Nevis,KNA
 316,Saint Lucia,LCA
@@ -233,14 +193,10 @@ country_key,country,iso_code
 331,Solomon Islands,SLB
 332,Somalia,SOM
 333,South Africa,ZAF
-334,South America,
-335,South America (GCP),
 336,South Korea,KOR
 337,South Sudan,SSD
 338,Spain,ESP
 339,Sri Lanka,LKA
-340,St. Kitts-Nevis-Anguilla (GCP),
-341,St. Kitts-Nevis-Anguilla (Jones et al. 2023),
 342,Sudan,SDN
 343,Suriname,SUR
 344,Svalbard and Jan Mayen,SJM
@@ -265,7 +221,6 @@ country_key,country,iso_code
 363,United Kingdom,GBR
 364,United States,USA
 365,United States Virgin Islands,VIR
-366,Upper-middle-income countries,
 367,Uruguay,URY
 368,Uzbekistan,UZB
 369,Vanuatu,VUT
@@ -273,7 +228,6 @@ country_key,country,iso_code
 371,Vietnam,VNM
 372,Wallis and Futuna,WLF
 373,Western Sahara,ESH
-374,World,
 375,Yemen,YEM
 376,Zambia,ZMB
 377,Zimbabwe,ZWE
