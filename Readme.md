@@ -2,4 +2,4 @@
 
 <p>Power BI Dashboard</p>
 
-![alt text](image.png)
+![alt text](dashboard.png)
