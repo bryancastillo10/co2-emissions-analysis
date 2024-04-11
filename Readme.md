@@ -28,8 +28,12 @@ are to investigate the following <b>objectives</b>:</p>
 
 <h2>Data Manipulation by Pandas Library</h2>
 <p>The dataset was recovered from the Maven Analytics public dataset, and initially it
-is composed of 50,000 rows by 79 columns. It is a large dataset that requires cleaning, and reducing this
-dimension was based on the objectives I formulated.</p>
+is composed of around 50,000 rows by 79 columns. With this structure of the dataset,it requires  some data cleaning procedure and dimensional reduction. This step is shown in details on the <b>Jupyter notebook</b> of this repository.</p>
+
 <h2>Power BI Dashboard</h2>
+<p>Data visualization was performed utilizing Microsoft Power BI</p>
 
 ![alt text](dashboard.png)
+
+**Dashboard Interpretation**
+<p>Based on the created dashboard, there is a significant increase of CO<sub>2</sub> over time and it was further boosted by the man-made/anthropogenic activities (energy consumption being the primary man-made source). This calls for an environmental advocacy to contribute in achieving sustainable development goal pledge by the UN of net zero carbon emission by the year 2050.</p>
