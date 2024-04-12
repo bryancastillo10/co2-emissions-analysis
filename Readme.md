@@ -33,7 +33,7 @@ is composed of around 50,000 rows by 79 columns. With this structure of the data
 <h2>Power BI Dashboard</h2>
 <p>Data visualization was performed utilizing Microsoft Power BI</p>
 
-![alt text](dashboard.png)
+![Alt text](dashboard.png)
 
 **Dashboard Interpretation**
 
